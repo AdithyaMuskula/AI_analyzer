@@ -75,24 +75,3 @@ npm run dev
 
 ---
 
-## 📄 Example Outputs
-
-Below are two sample outputs from **Agent 1**, based on real MoEngage documentation URLs.
-
-### Example 1 — [https://www.moengage.com/docs/segmentation](https://www.moengage.com/docs/segmentation)
-
-**Original**:
-> Segmentation in MoEngage allows you to filter users into groups based on specific attributes or behaviors.
-
-**Agent 1 Output**:
-> MoEngage’s segmentation feature lets you group users dynamically using attributes (e.g., location, device) or actions (e.g., opened an email, purchased a product), enabling targeted engagement strategies.
-
----
-
-### Example 2 — [https://www.moengage.com/docs/push-notifications](https://www.moengage.com/docs/push-notifications)
-
-**Original**:
-> Push notifications help you engage users in real time with messages on their mobile devices.
-
-**Agent 1 Output**:
-> Use push notifications in MoEngage to reach users instantly with personalized messages on mobile devices—ideal for promotions, updates, or re-engagement.
