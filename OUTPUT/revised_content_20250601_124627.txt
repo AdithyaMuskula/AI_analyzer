@@ -1,0 +1,24 @@
+## Campaigns and Channels: Engaging Your Audience with MoEngage
+
+### Introduction
+
+With MoEngage, you can connect with your users on their favorite channels, delivering the right message at the right time. These channels are the different ways you can communicate with your audience, such as mobile push notifications, emails, SMS messages, and more.
+
+MoEngage supports a wide range of channels, empowering you to engage your audience across all the touchpoints that matter. Let's explore the channels available:
+
+### MoEngage Channels
+
+| Channel Name          | Description                                                                                                                                                         | Learn More          |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| **Mobile Push**      | Reach users directly on their Android and iOS devices with targeted and personalized notifications. Use cases include promoting new features, reminding users about pending actions, and delivering time-sensitive alerts. | [Mobile Push Documentation Link] |
+| **Web Push**         | Engage users on their desktop and mobile browsers with timely notifications, even when they're not actively browsing your website. Great for announcing sales, sharing news, and re-engaging inactive users.  | [Web Push Documentation Link] |
+| **Email**             | Send personalized email campaigns to your registered users. Nurture leads, announce product updates, share newsletters, and more. | [Email Documentation Link] |
+| **SMS & RCS**          | Deliver critical information and time-sensitive updates via SMS messages.  Ideal for appointment reminders, order confirmations, and transactional alerts.  Consider using RCS for richer messaging experiences. | [SMS & RCS Documentation Link] |
+| **In-App Message**     | Display targeted messages within your mobile app while users are actively engaged. Perfect for onboarding new users, promoting in-app purchases, and gathering feedback. | [In-App Message Documentation Link] |
+| **On-site Message**    | Display pop-up messages, surveys, or lead capture forms on your website to engage visitors and generate leads. Collect valuable insights and personalize the browsing experience.  | [On-site Message Documentation Link] |
+| **Cards**            | Display rich, interactive content within a dedicated feed inside your app.  Share news, announcements, promotional offers, and personalized recommendations. | [Cards Documentation Link] |
+| **WhatsApp**         | Send templated WhatsApp messages to users who have opted-in to receive updates. Leverage the power of conversational marketing to provide personalized support and drive conversions. | [WhatsApp Documentation Link] |
+| **Facebook Audience** | Retarget your users on Facebook by seamlessly syncing your MoEngage data to Facebook Ad Audiences. Deliver highly relevant ads based on user behavior and preferences. | [Facebook Audience Documentation Link] |
+| **Google Ads Audience**| Retarget users on the Google Display Network by syncing your MoEngage data to Google Ads Audiences. Reach a wider audience with tailored ads based on their interests and engagement. | [Google Ads Audience Documentation Link] |
+| **Connectors**       | Integrate MoEngage with your other marketing tools and platforms. Send data to any third-party service to trigger communication or enhance your existing workflows. | [Connectors Documentation Link] |
+| **Web Personalization** | Tailor the experience of users on your website based on their behavior, preferences, and demographics. Deliver personalized content, offers, and recommendations to maximize engagement and conversions. | [Web Personalization Documentation Link] |
