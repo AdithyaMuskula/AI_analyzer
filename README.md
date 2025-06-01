@@ -74,4 +74,4 @@ npm run dev
 - Include version control and change tracking on revised documents.
 
 ---
-
+OUTPUT can be seen in OUTPUT folder
